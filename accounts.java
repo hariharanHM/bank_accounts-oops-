@@ -87,5 +87,6 @@ public class accounts {
     public void setCustomerPhoneNumber(String customerPhoneNumber) {
         this.customerPhoneNumber = customerPhoneNumber;
     }
+   System.out.println("Hi this is our first project")  
 
 }
