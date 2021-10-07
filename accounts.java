@@ -8,6 +8,7 @@ public class accounts {
 
     public  accounts(){
         System.out.println("Empty constructor called");
+        System.out.println("this is oops project for bankaccount")
     }
     public accounts(String number,double balance,String customerName,String customerEmailAddress,String customerPhoneNumber){
         System.out.println("Account constructor with paramters called");
