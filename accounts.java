@@ -11,6 +11,7 @@ public class accounts {
         System.out.println("just did it for git commit");
         System.out.println("this is oops project for bankaccount")
             System.out.printLn("this is one of the code in bankaccount project")
+            System.out.println("just add commit and verify")
             
             
     }
@@ -24,7 +25,7 @@ public class accounts {
     }
 
     public accounts(String customerName, String customerEmailAddress, String customerPhoneNumber) {
-        this("999999",100.55,customerName,customerEmailAddress,customerPhoneNumber);
+        this("999999",10.55,customerName,customerEmailAddress,customerPhoneNumber);
         this.customerName = customerName;
         this.customerEmailAddress = customerEmailAddress;
         this.customerPhoneNumber = customerPhoneNumber;
