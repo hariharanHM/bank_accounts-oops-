@@ -25,7 +25,9 @@ public class accounts {
     }
 
     public accounts(String customerName, String customerEmailAddress, String customerPhoneNumber) {
+
         this("999999",10.55,customerName,customerEmailAddress,customerPhoneNumber);
+
         this.customerName = customerName;
         this.customerEmailAddress = customerEmailAddress;
         this.customerPhoneNumber = customerPhoneNumber;
